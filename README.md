@@ -1,6 +1,6 @@
 # Cube Game
 
-A simple 3D cube-based game project developed using Unity (with optional integrations of Unreal Engine or Blender assets).  
+A simple 3D cube-based game project developed using Unity.  
 This project demonstrates core game mechanics, 3D modeling, asset import, and basic player interaction.
 
 ---
